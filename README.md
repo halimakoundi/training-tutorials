@@ -5,7 +5,8 @@ This repository holds the content used to build the .NET getting started tutoria
 ## Organization
 
 The content is broken up into high level groups by topic, initially covering
-- [C#](content/csharp/README.md)
+- [C#](content/csharp/README.md) 
+  To run the turorial [online](https://www.microsoft.com/net/tutorials/csharp/getting-started)
 - [ASP.NET](content/asp.net/README.md)
 - [F#](content/fsharp/README.md)
 
